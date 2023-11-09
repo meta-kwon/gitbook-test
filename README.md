@@ -1,40 +1,26 @@
 ---
-description: 메뉴얼입니다
-cover: .gitbook/assets/sys_msg_bg.png
+description: 3D 가상공간 커뮤니티 THERE를 소개합니다
+cover: .gitbook/assets/shutterstock_1042736410.jpg
 coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
 ---
 
-# 첫번째 중요
+# 🌌 플랫폼 THERE 소개
 
-메뉴얼을 작성해보아요!
+THERE는 상상력에 한계가 없는 우주공간을 컨셉으로 만들어졌습니다
 
-
-
-<figure><img src=".gitbook/assets/sys_msg_bg.png" alt=""><figcaption><p>우아 이미지다!!!</p></figcaption></figure>
-
-
-
-```javascript
-// Some code
-const img = new Image();
-```
-
-설명 리스트입니다.
-
-* 헤헤
-* 호호
+다양한 컨셉으로 기획 / 디자인 / 컨텐츠를 구성하여 나만의 메타버스 커뮤니티를 5분만에 만들 수 있습니다
 
